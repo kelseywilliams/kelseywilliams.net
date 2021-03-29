@@ -1,0 +1,40 @@
+body{
+    background-color:whitesmoke;
+}
+h1,h2,h3 {
+    font-family: monospace;
+    border-bottom: solid 1px black;
+}
+p,a{
+    font-family: monospace;
+    font-size:20px;
+}
+input{
+    font-size:20px;
+}
+code{
+    background-color:lightgray;
+}
+.docs{
+    word-wrap: break-word;
+}
+/*Shamless css stealing*/
+.submit {
+    background-color: orange;
+    border-radius: 1px;
+    cursor: pointer;
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+    padding: 3px 20px;
+    text-decoration: none;
+    vertical-align:bottom;
+    border:none;
+}
+.submit:hover {
+    background-color:orangered;
+}
+.submit:active {
+    position:relative;
+    top:1px;
+}
