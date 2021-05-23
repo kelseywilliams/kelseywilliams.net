@@ -11,18 +11,11 @@ h1,h2,h3 {
 p,a,ul,li,footer{
     margin:10px;
     font-family: monospace;
-    font-size:20px;
+    font-size:15px;
 }
 ul{
     word-wrap: break-word;
     padding-left: 10px;
-}
-footer{
-    margin:0;
-    padding: 10px;
-    position:relative;
-    bottom:0;
-    background-color:lightgray;
 }
 input{
     font-size:20px;
