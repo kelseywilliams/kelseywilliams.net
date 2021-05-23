@@ -20,7 +20,7 @@ ul{
 footer{
     margin:0;
     padding: 10px;
-    position:fixed;
+    position:relative;
     bottom:0;
     background-color:lightgray;
 }
