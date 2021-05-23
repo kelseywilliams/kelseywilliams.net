@@ -13,6 +13,10 @@ p,a,ul,li,footer{
     font-family: monospace;
     font-size:20px;
 }
+ul{
+    word-wrap: break-word;
+    padding-left: 10px;
+}
 footer{
     margin:0;
     padding: 10px;
