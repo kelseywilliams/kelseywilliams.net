@@ -1,0 +1,19 @@
+body{
+    background-color:whitesmoke;
+    margin:0;
+    padding:0;
+}
+h1,h2,h3 {
+    margin: 10px;
+    font-family: monospace;
+    border-bottom: solid 1px black;
+}
+p,a,ul,li{
+    margin:10px;
+    font-family: monospace;
+    font-size:16px;
+}
+ul{
+    word-wrap: break-word;
+    padding-left: 10px;
+}
